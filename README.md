@@ -1,3 +1,3 @@
 # App-dev
 My first repository
-[![alt text](image.jpg)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDoraemon_%2528character%2529&psig=AOvVaw2wPYRvbscqG1xP0rdvx01v&ust=1761381027517000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCOj2puW1vJADFQAAAAAdAAAAABAE)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FDoraemon%2Fcomments%2F1ffqhoq%2Fshow_me_the_cutest_pic_of_doraemon_you_got_this%2F&psig=AOvVaw3VBNvOofkzjiYUCOHfxHSw&ust=1761381127370000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOjIz5S2vJADFQAAAAAdAAAAABAK
